@@ -1,0 +1,11 @@
+
+=== Tue Nov  1 09:32:50 2022
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were added:
+  com.unity.ads@3.4.9
+  com.unity.analytics@3.3.5
+  com.unity.purchasing@2.1.0
+  com.unity.textmeshpro@2.0.1
